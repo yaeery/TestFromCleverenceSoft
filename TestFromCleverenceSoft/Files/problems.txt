@@ -1,0 +1,51 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+
+namespace TestFromCleverenceSoft
+{
+    class IncorrectFormat
+    {
+    }
+}
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+
+namespace TestFromCleverenceSoft
+{
+    class IncorrectFormat
+    {
+    }
+}
+
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+
+namespace TestFromCleverenceSoft
+{
+    class IncorrectFormat
+    {
+    }
+}
+
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+
+namespace TestFromCleverenceSoft
+{
+    class IncorrectFormat
+    {
+    }
+}
+

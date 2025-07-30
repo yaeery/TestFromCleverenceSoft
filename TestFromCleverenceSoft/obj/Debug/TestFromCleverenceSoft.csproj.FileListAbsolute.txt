@@ -1,0 +1,7 @@
+C:\Users\kondr\source\repos\TestFromCleverenceSoft\TestFromCleverenceSoft\bin\Debug\TestFromCleverenceSoft.exe.config
+C:\Users\kondr\source\repos\TestFromCleverenceSoft\TestFromCleverenceSoft\bin\Debug\TestFromCleverenceSoft.exe
+C:\Users\kondr\source\repos\TestFromCleverenceSoft\TestFromCleverenceSoft\bin\Debug\TestFromCleverenceSoft.pdb
+C:\Users\kondr\source\repos\TestFromCleverenceSoft\TestFromCleverenceSoft\obj\Debug\TestFromCleverenceSoft.csproj.AssemblyReference.cache
+C:\Users\kondr\source\repos\TestFromCleverenceSoft\TestFromCleverenceSoft\obj\Debug\TestFromCleverenceSoft.csproj.CoreCompileInputs.cache
+C:\Users\kondr\source\repos\TestFromCleverenceSoft\TestFromCleverenceSoft\obj\Debug\TestFromCleverenceSoft.exe
+C:\Users\kondr\source\repos\TestFromCleverenceSoft\TestFromCleverenceSoft\obj\Debug\TestFromCleverenceSoft.pdb
