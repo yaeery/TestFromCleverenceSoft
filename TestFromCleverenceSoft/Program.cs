@@ -13,12 +13,13 @@ namespace TestFromCleverenceSoft
             RLE_Work();
 
             SingleFormat_Work();
+
         }
         static void RLE_Work()
         {
             RLE Rle = new RLE();
-            Console.WriteLine(Rle.Сoding());
-            Console.WriteLine(Rle.Decoding());
+            Console.WriteLine($"Результат кодирования: {Rle.Сoding()}");
+            Console.WriteLine($"Результат раскодирования: {Rle.Decoding()}");
             Console.ReadLine();
         }
         static void SingleFormat_Work()

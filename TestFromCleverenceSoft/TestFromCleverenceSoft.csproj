@@ -46,6 +46,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RLE.cs" />
+    <Compile Include="Server.cs" />
     <Compile Include="SingleFormat.cs" />
   </ItemGroup>
   <ItemGroup>

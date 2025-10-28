@@ -13,11 +13,7 @@ namespace TestFromCleverenceSoft
         private string Result_Decoding;
         public RLE()
         {
-            int count = Convert.ToInt32(Console.ReadLine());
-            for (int i = 0; i < count; i++)
-            {
-                Input += Console.ReadLine();
-            }
+                Input = Console.ReadLine();
             //Input = "qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqwertttttttrrr";
         }
         public string Сoding()
@@ -42,7 +38,10 @@ namespace TestFromCleverenceSoft
                 }
             }
             Result_Coding += letter;
-            Result_Coding += count.ToString();
+            if (count != 1)
+            {
+                Result_Coding += count.ToString();
+            }
             return Result_Coding;
         }
         public string Decoding()
@@ -70,6 +69,10 @@ namespace TestFromCleverenceSoft
                     letter = Result_Coding[i];
                     count = 0;
                 }
+            }
+            if (count == 0)
+            {
+                count = 1;
             }
             for (int j = 0; j < count; j++)
             {
